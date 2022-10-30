@@ -1,0 +1,11 @@
+	
+POST http://localhost:3001/api/productData
+content-type: application/json
+ 
+{
+        "id": 9,
+        "title": "Brasno",
+        "opis": "psenicno",
+        "price": 8,
+        "ducan": "Konzum"
+    }

@@ -1,0 +1,13 @@
+	
+POST http://localhost:3001/api/productData
+content-type: application/json
+ 
+{
+    "id": 9,
+    "title": "Brasno",
+    "opis": "kukuruzno",
+    "price": 11,
+    "ducan": "Lidl",
+    "omiljen": true,
+    "korisnikId": "62f7b01b5655ae9f6fb0a414"
+}

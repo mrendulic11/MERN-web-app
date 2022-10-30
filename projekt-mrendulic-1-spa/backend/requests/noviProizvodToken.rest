@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/productData
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1yZW5kdWxpYyIsImlkIjoiNjJmN2IwMWI1NjU1YWU5ZjZmYjBhNDE5IiwiaWF0IjoxNjYwNTAwMTI1fQ.U0DxcA8OS-NgNdaJjXt7W7kwGe1PTHZvDA6EAGURmCg
+
+{
+  "title": "Brasno sa tokenom",
+  "opis": "razeno",
+  "price": 10,
+  "ducan": "Plodine",
+  "omiljen": true
+}
